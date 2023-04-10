@@ -1,0 +1,72 @@
+.btn
+{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 100;
+    color: black;
+   
+}
+
+h5
+{
+    font-family: 'Pattaya', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    color: #f80;
+}
+
+#barra
+{   
+        width: 100%; 
+       
+}
+
+footer
+{    
+    
+    background-color:rgb(226, 224, 224) ;
+}
+/*INDEX 3 */
+h1
+{
+
+    font-family: 'Pattaya', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    color: #f80;
+}
+h2
+{
+    font-family: 'Pattaya', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    color: #f80;
+}
+h3
+{
+    font-family: 'Pattaya', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    color: #adf;
+}
+p
+{
+    text-align: center;
+}
+/*INDEX 2 */
+.card-body
+{
+    text-align: center;
+    
+}
+#productos
+{
+    color: black;
+    font-weight: bold;
+}
+/*Productos */
+.card-title
+{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 25px;
+    color: black;
+}
